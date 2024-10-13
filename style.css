@@ -195,7 +195,7 @@ nav {
 .map-container {
     height: 400px; /* Height for the map */
 }
-legend h2{
+#contact h2{
     color: yellow;
 }
 
