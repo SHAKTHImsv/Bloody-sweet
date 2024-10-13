@@ -200,17 +200,14 @@ legend h2{
 
 @media (max-width: 768px) {
     #contact {
-        flex-direction: column; /* Stack on smaller screens */
-        align-items: center; /* Center items horizontally */
-        text-align: center; /* Center text for better readability */
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center; /* Center items */
+        padding: 30px; /* Adjust padding for smaller screens */
     }
     .map-container {
-        height: 200px; /* Adjust map height for smaller screens */
-        margin-bottom: 30px;
-        width: 100%; /* Make map full width */
-    }
-    legend h2 {
-        margin-top: 100px; /* Add some space above the heading */
+        width: 80%; /* Full width for the map */
+        height: 300px; /* Set height for the map */
+        margin-bottom: 20px; /* Space below the map */
     }
 }
 
