@@ -205,7 +205,7 @@ legend h2{
         padding: 30px; /* Adjust padding for smaller screens */
     }
     .map-container {
-        width: 80%; /* Full width for the map */
+        width: 60%; /* Full width for the map */
         height: 300px; /* Set height for the map */
         margin-bottom: 20px; /* Space below the map */
     }
