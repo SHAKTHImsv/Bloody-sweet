@@ -192,9 +192,7 @@ nav {
     color: yellow;
     padding: 30px 0;
 }
-.map-container {
-    height: 400px; /* Height for the map */
-}
+
 #contact h2{
     color: yellow;
 }
@@ -206,10 +204,6 @@ nav {
         align-items: center; /* Center items */
         padding: 30px; /* Adjust padding for smaller screens */
     }
-    .map-container {
-        width: 60%; /* Full width for the map */
-        height: 300px; /* Set height for the map */
-        margin-bottom: 20px; /* Space below the map */
-    }
+   
 }
 
